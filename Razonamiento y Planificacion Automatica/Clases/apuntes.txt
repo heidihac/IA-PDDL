@@ -1,0 +1,32 @@
+Tecnicas de  representacion simbolica
+	Reglas: Sentencias condicionales SI ENTONCES.
+	Marcos: representacion estereotipada de situaciones, objetos, ideas y conceptos.
+	Restricciones: representar relaciones entre variables por medio de un dominio de valores posibles.
+	Redes bayesianas: formada por relaciones causa-efecto entre variables con medidas de probabilidad.
+	Logica difusa: representar conocimiento impreciso o ambiguo.
+
+	debe ser:	
+		formal: no debe representar ambiguedades.
+		expresiva: debe capturar los diferentes aspectos que se necesitan distinguir.
+		natural: analoga a formas naturales de expresar conocimiento:
+		tratable: se debe poder tratar computacionalmente.
+		
+	
+Clases de conocimiento IA:
+	Conocimiento del dominio.
+	Conocimiento explicito.
+	Conocimiento superficial.
+	Conocimiento de control.
+	Metaconocimiento.
+	Conocimiento independiente del dominio o generico.
+	
+Modelos de memoria:
+	Representacion relacional.
+	Jerarquia de clases.
+	Tripletas Objeto Atributo Valor.
+	Redes semanticas u ontologias.
+	
+Modelos logicos:
+	Logica proposicional.
+	Logica de predicados.
+	Logica mixta(OWL).
